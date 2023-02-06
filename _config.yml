@@ -9,3 +9,7 @@ theme: minima
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
+  
+# Home
+paginate: 10
+paginate_path: "/pages/page:num/"
