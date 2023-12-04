@@ -5,7 +5,7 @@ title:  "なぜ11年勤めた会社をやめて、スタートアップでセキ
 
 ※この記事は [3-shake Advent Calendar 2023](https://qiita.com/advent-calendar/2023/3-shake) の12月4日の記事です
 
-転職してまもなく1年、Advent Calender といういいきっかけがあったので区切りとして記録しておきます。
+転職してまもなく1年、Advent Calender といういいきっかけがあったので自分の区切りのためにも記事にしました。
 
 # なぜ11年勤めた会社をやめたのか
 
